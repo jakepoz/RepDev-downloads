@@ -6,7 +6,7 @@ Binary downloads for the RepDev IDE, they will work for Windows systems with 32 
 ##Latest version 1.6.9 (June 14th, 2014): <a href="https://github.com/jakepoz/RepDev-downloads/raw/master/RepDev-1.6.9.zip">Download now</a>
 
 
-##Previous version 1.6.8 (Jan 2nd, 2013): <a href="https://github.com/jakepoz/RepDev-downloads/raw/master/repdev-1.6.8.zip">Download now</a>
+###Previous version 1.6.8 (Jan 2nd, 2013): <a href="https://github.com/jakepoz/RepDev-downloads/raw/master/repdev-1.6.8.zip">Download now</a>
 
 
 ####RepDev Guide
