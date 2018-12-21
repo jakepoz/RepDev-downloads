@@ -3,14 +3,14 @@ RepDev-downloads
 
 Binary downloads for the RepDev IDE, they will work for Windows systems with 32 or 64 bit Java installed.
 <ul>
-<li>Latest version 1.6.12 (August 29, 2017):</li>
+<li>Latest version 1.6.13 (December 03, 2018):</li>
+<a href="https://github.com/jakepoz/RepDev-downloads/raw/master/RepDev-1.6.13.zip">Download RepDev 32 Bit</a><BR>
+<a href="https://github.com/jakepoz/RepDev-downloads/raw/master/RepDev-1.6.13_64Bit.zip">Download RepDev 64 Bit</a>
+
+
+<li>Previous version 1.6.12 (August 29, 2017):</li>
 <a href="https://github.com/jakepoz/RepDev-downloads/raw/master/RepDev-1.6.12.zip">Download RepDev 32 Bit</a><BR>
 <a href="https://github.com/jakepoz/RepDev-downloads/raw/master/RepDev-1.6.12_64Bit.zip">Download RepDev 64 Bit</a>
-
-
-<li>Previous version 1.6.11 (May 21, 2017):</li>
-<a href="https://github.com/jakepoz/RepDev-downloads/raw/master/RepDev-1.6.11.zip">Download RepDev 32 Bit</a><BR>
-<a href="https://github.com/jakepoz/RepDev-downloads/raw/master/RepDev-1.6.11_64Bit.zip">Download RepDev 64 Bit</a>
 
 
 <li>RepDev Guide</li>
