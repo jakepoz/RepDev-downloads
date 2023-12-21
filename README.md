@@ -17,7 +17,10 @@ Binary downloads for the RepDev IDE, they will work for Windows systems with 32 
 The <a href="https://github.com/jakepoz/RepDev-downloads/raw/master/RepDev_Guide.pdf">RepDev Guide</a> has a Quick Start guide for beginners.  It also list some of the features of RepDev and how to use them.
 
 <li>Source Control Guide</li>
-The <a href="https://github.com/jakepoz/RepDev-downloads/raw/master/RepDev_Source_Control_0.1.pdf">Source Control Guide</a> has explains what RepDev Source Control is and is not.  Look at the Last page for the flow diagram.
+The <a href="https://github.com/jakepoz/RepDev-downloads/raw/master/RepDev_Source_Control_0.1.pdf">Source Control Guide</a> explains what RepDev Source Control is and is not.  Look at the Last page for the flow diagram.
+
+<li>RepDev Wiki</li>
+The Wiki can be found here <a href="https://github.com/jakepoz/RepDev/wiki">https://github.com/jakepoz/RepDev/wiki</a>
 
 <li>Source Code</li>
 Source Code is available at this link:
